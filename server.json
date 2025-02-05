@@ -15,6 +15,22 @@
       "category": "Alimentação",
       "price": 60,
       "createdAt": "2025-01-10T14:54:01.188Z"
+    },
+    {
+      "id": 3,
+      "description": "Teclado Raiz",
+      "type": "outcome",
+      "category": "Música",
+      "price": 697.90,
+      "createdAt": "2025-01-04T14:54:01.188Z"
+    },
+    {
+      "id": 4,
+      "description": "Leite bebe",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 200.00,
+      "createdAt": "2025-01-04T14:54:01.188Z"
     }
   ]
 }
