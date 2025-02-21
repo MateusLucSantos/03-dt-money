@@ -21,7 +21,7 @@
       "description": "Teclado Raiz",
       "type": "outcome",
       "category": "Música",
-      "price": 697.90,
+      "price": 697.9,
       "createdAt": "2025-01-04T14:54:01.188Z"
     },
     {
@@ -29,8 +29,24 @@
       "description": "Leite bebe",
       "type": "outcome",
       "category": "Alimentação",
-      "price": 200.00,
+      "price": 200,
       "createdAt": "2025-01-04T14:54:01.188Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2025-02-21T18:48:06.295Z",
+      "id": 5
+    },
+    {
+      "description": "Pastel",
+      "price": 5,
+      "category": "Alimentacao",
+      "type": "outcome",
+      "createdAt": "2025-02-21T19:07:08.157Z",
+      "id": 6
     }
   ]
 }
